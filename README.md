@@ -31,8 +31,8 @@ yarn add lodash
 ```
 yarn add moment
 ```
-
-https://lodash.com/
+* https://momentjs.com/
+* https://lodash.com/
 
 ## Project setup
 ```

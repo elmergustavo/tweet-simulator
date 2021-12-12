@@ -13,6 +13,17 @@
 
 ![](https://github.com/elmergustavo/tweet-simulator/blob/master/1.PNG)
 
+## Extensiones Con Vue.js 
+
+* [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
+* [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
+## Tema Visual studio Code
+* [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+
+![](https://sdras.gallerycdn.vsassets.io/extensions/sdras/night-owl/2.0.1/1625369748311/Microsoft.VisualStudio.Services.Icons.Default)
 
 # tweet-simulator
 

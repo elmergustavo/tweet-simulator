@@ -28,6 +28,10 @@ yarn add uuid
 yarn add lodash
 ```
 
+```
+yarn add moment
+```
+
 https://lodash.com/
 
 ## Project setup
